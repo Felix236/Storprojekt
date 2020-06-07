@@ -1,11 +1,22 @@
-html {
-	background-color: black;
-}
-
 body {
-    background-color: black;
-    margin: auto;
-    
+	background-color:  #000000
 }
 
-h1 
+
+link {
+
+	color: #0042a6; 
+}
+p {
+	color: 	#1E90FF;
+}
+b {
+	color: 	red
+}
+h1 {
+
+	color: 		#0042a6
+}
+li {
+	color: 	green	
+}
